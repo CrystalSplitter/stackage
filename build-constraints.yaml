@@ -4243,6 +4243,9 @@ packages:
         - swish
         - hvega
         - ihaskell-hvega
+    
+    "Crystal JRAW <crystal@crystalwobsite.gay> @CrystalSplitter":
+        - ghcitui
 
     "Adam Flott <adam@adamflott.com> @adamflott":
         - milena

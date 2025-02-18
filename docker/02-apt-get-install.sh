@@ -24,6 +24,8 @@ apt-get install -y \
     fsharp \
     g++ \
     gawk \
+    gir1.2-javascriptcoregtk-4.0 \
+    gir1.2-javascriptcoregtk-6.0 \
     git \
     gnupg \
     gradle \
@@ -63,14 +65,14 @@ apt-get install -y \
     libgtk-3-dev \
     libgtk-4-dev \
     libgtk2.0-dev \
-    libgtksourceview-3.0-dev \
+    libgtksourceview-5-dev \
     libhidapi-dev \
     libi2c-dev \
     libicu-dev \
     libimlib2-dev \
     libjack-jackd2-dev \
     libjansson-dev \
-    libjavascriptcoregtk-4.0-dev \
+    libjavascriptcoregtk-6.0-dev \
     libjudy-dev \
     liblapack-dev \
     libleveldb-dev \
@@ -88,6 +90,7 @@ apt-get install -y \
     libmysqlclient-dev \
     libncurses-dev \
     libnfc-dev \
+    libnlopt-cxx-dev \
     libnotify-dev \
     liboath-dev \
     libopenal-dev \
@@ -111,7 +114,7 @@ apt-get install -y \
     libsnappy-dev \
     libsndfile1-dev \
     libsodium-dev \
-    libsoup2.4-dev \
+    libsoup-3.0-dev \
     libsox-dev \
     libsqlite3-dev \
     libssl-dev \
